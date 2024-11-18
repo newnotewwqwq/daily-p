@@ -1,3 +1,3 @@
-nytimes.org
-financial_times.org
-economist_free.org
+Nytimes.org
+Financial_times.org
+Economist_free.org
