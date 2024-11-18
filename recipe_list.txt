@@ -1,1 +1,3 @@
-Slashdot.org
+nytimes.org
+financial_times.org
+economist_free.org
